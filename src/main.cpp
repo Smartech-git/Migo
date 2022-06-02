@@ -100,6 +100,7 @@
     pinMode(echoPin1, INPUT);
     pinMode(echoPin2, INPUT);
     pinMode(echoPin3, INPUT);
+    Serial.println("Hello");
     for(int j = 0; j <= 10; j++) {
       digitalWrite(13, HIGH);
       delay(50);
