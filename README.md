@@ -1,3 +1,5 @@
+![Frame 1 (3)](https://user-images.githubusercontent.com/69016682/174899324-78b82078-68cc-4965-85a1-39974c3716a9.png)
+
 **Migo**
 
 A simple object tracking using HC-SR04 ultrasonic sensors is cool.
